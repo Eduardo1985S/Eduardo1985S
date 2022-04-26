@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no dia dia
+## 
 ### Hard Skills 
 
 <div style="display: inline-block"><br/>
