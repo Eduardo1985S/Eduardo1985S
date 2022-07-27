@@ -4,8 +4,6 @@
 
 [![Blog](https://img.shields.io/website?https://eduardocorreia.com.br/&style=for-the-badge&url=https://eduardocorreia.com.br/)](https://eduardocorreia.com.br/)
 
-[![Top Langs]
-
 ## 
 ### Hard Skills 
 
