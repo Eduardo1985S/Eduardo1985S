@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/website?https://eduardocorreia.com.br/&style=for-the-badge&url=https://eduardocorreia.com.br/)](https://eduardocorreia.com.br/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]#)
 
 ## 
 ### Hard Skills 
