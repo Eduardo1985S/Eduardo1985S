@@ -2,12 +2,6 @@
 ### Professor de Tecnologia 🧑🏻‍💻
 ### FullStack 
 
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
 [![Blog](https://img.shields.io/website?https://eduardocorreia.com.br/&style=for-the-badge&url=https://eduardocorreia.com.br/)](https://eduardocorreia.com.br/)
 
 ## 
