@@ -2,6 +2,8 @@
 ### Professor de Tecnologia 🧑🏻‍💻
 ### FullStack 
 
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
 [![Blog](https://img.shields.io/website?https://eduardocorreia.com.br/&style=for-the-badge&url=https://eduardocorreia.com.br/)](https://eduardocorreia.com.br/)
 
 ## 
