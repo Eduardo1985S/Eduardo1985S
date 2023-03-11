@@ -1,6 +1,6 @@
 ## Olá eu sou Eduardo Correia 
 ### Professor de Tecnologia 🧑🏻‍💻
-### FullStack 
+### Desenvolvedor de Sistemas 
 
 [![Blog](https://img.shields.io/website?https://eduardocorreia.com.br/&style=for-the-badge&url=https://eduardocorreia.com.br/)](https://eduardocorreia.com.br/)
 
