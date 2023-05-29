@@ -15,11 +15,6 @@
    </div>
 
 <div style="display: inline-block"><br/>
-    <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img align='center' alt='React_Native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-</div>
-
-<div style="display: inline-block"><br/>
     <img align='center' alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
     <img align='center' alt='Spring' src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
     <img align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' />
