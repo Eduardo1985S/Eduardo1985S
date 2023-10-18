@@ -30,3 +30,6 @@
 </div>
 
 
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
+</p>
