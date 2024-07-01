@@ -2,6 +2,10 @@
 ### Professor de Tecnologia 🧑🏻‍💻
 ### Desenvolvedor de Sistemas 
 ## 
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0raoni/)
+## Habilidades
+
 ### Hard Skills 
 
 <div style="display: inline-block"><br/>
