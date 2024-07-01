@@ -4,8 +4,8 @@
 ## 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0raoni/)
-## Habilidades
 
+## Habilidades
 ### Hard Skills 
 
 <div style="display: inline-block"><br/>
@@ -30,13 +30,13 @@
     <img align='center' alt='Microsoft_Excel' src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' />
 </div>
 
-
-
 <div style="display: inline-block"><br/>
     <p align="center" >   
   <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
 </p>
 </div>
 
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=00raoni&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 📊 Estatísticas no GitHub:
+<a href="https://github.com/0rfreitas">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0rfreitas&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
+</a>
