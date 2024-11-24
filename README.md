@@ -4,6 +4,12 @@
 
 **Sou um professor de programação no [SENAI](https://www.portaldaindustria.com.br/senai/). Lá eu ensino muitos jovens sobre as maravilhas do mundo da programação e como deixar o mundo melhor com ela. Crio materiais de estudo completos e que ajudam muito em diversas áreas da programação. Além de programador eu também sou Desenvolvedor de Sistemas e atuo nesta área a bastante tempo.**
 
+## Mais sobre mim 🧑‍💻
+
+## Minhas Habilidades 🛠️
+
+## Meus interesses 📌
+
 ## Conecte-se comigo! 📡
 ### Meu linkedin 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-correia-dev/)
