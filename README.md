@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eduardocorr&show_icons=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eduardo1985S&show_icons=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Eduardo Correia!
 
