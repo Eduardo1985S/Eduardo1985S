@@ -9,18 +9,7 @@
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-correia-dev/)
 
-### 📊 Contribuições GitHub
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Total_Stars-106-yellow?style=for-the-badge&logo=github"/></td>
-    <td><img src="https://img.shields.io/badge/Commits_(2025)-209-blue?style=for-the-badge&logo=github"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Pull_Requests-10-purple?style=for-the-badge&logo=github"/></td>
-    <td><img src="https://img.shields.io/badge/Contributed_To-4_repos-green?style=for-the-badge&logo=github"/></td>
-  </tr>
-</table>
 
 ### 🚀 Skills
 
