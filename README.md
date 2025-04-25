@@ -1,33 +1,81 @@
-## Olá, eu sou Eduardo Correia 
-#### Professor de Tecnologia 🧑🏻‍💻
-#### Desenvolvedor de Sistemas 
+# Eduardo Correia
 
-## Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-correia-dev/)
-
-## 🔥 Skills
-
-### Working Languages
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">   
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  
+  ![Banner](https://github.com/eduardocorr/profilecard/blob/main/banner.png?raw=true)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/eduardo-correia-dev/)
+  [![Gmail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seu.email@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/seu.usuario)
+  
 </div>
 
-### Tools & Frameworks
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+## 👨‍💻 Sobre Mim
+
+> Professor de Tecnologia e Desenvolvedor de Sistemas apaixonado por criar soluções inovadoras e compartilhar conhecimento.
+
+```javascript
+const eduardo = {
+  profissão: ["Professor de Tecnologia", "Desenvolvedor de Sistemas"],
+  interesses: ["Desenvolvimento Web", "Inteligência Artificial", "Educação em Tech"],
+  linguas: ["Português", "Inglês"],
+  desafioAtual: "Aprimorando minhas habilidades em arquitetura de software escalável"
+}
+```
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Linguagens de Programação
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Ferramentas
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-### Libraries
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+## 🔥 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/seu-usuario/projeto-destaque">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-destaque&theme=github_dark" />
+  </a>
+  <a href="https://github.com/seu-usuario/outro-projeto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=outro-projeto&theme=github_dark" />
+  </a>
+</div>
+
+## 📚 Educação & Experiência
+
+- **Formação Acadêmica**: [Sua formação]
+- **Certificações**: [Suas certificações]
+- **Experiência**: [Resumo de sua experiência]
+
+---
+
+<div align="center">
+  <p>🔄 Atualizado em Abril de 2025</p>
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
 </div>
