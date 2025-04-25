@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eduardo1985S&show_icons=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eduardo1985S&show_icons=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&cache_seconds=2300" alt="estatísticas do GitHub">
 
 ### Olá, meu nome é Eduardo Correia!
 
@@ -8,6 +8,19 @@
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-correia-dev/)
+
+### 📊 Contribuições GitHub
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Total_Stars-106-yellow?style=for-the-badge&logo=github"/></td>
+    <td><img src="https://img.shields.io/badge/Commits_(2025)-209-blue?style=for-the-badge&logo=github"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Pull_Requests-10-purple?style=for-the-badge&logo=github"/></td>
+    <td><img src="https://img.shields.io/badge/Contributed_To-4_repos-green?style=for-the-badge&logo=github"/></td>
+  </tr>
+</table>
 
 ### 🚀 Skills
 
@@ -24,7 +37,7 @@
 <div style="display: flex; gap: 10px;">
   <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<!--   <img alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> -->
+  <img alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
