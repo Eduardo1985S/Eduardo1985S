@@ -42,15 +42,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" alt="Tecnologia: MongoDB" />
 </p>
 
-## Em destaque
-- 🧺 [orgs-cesta](https://github.com/Eduardo1985S/orgs-cesta) – app exemplo com React Native
-- 🧭 [react-router-vite](https://github.com/Eduardo1985S/react-router-vite) – boilerplate com React Router
-- 🏬 [store-app](https://github.com/Eduardo1985S/store-app) – app de loja (frontend)
-- 🧭 [template-react-navigation](https://github.com/Eduardo1985S/template-react-navigation) – navegação base RN
-- 📘 [Exercises-Javascript](https://github.com/Eduardo1985S/Exercises-Javascript) – exercícios JS
-- ☕ [Java](https://github.com/Eduardo1985S/Java) – estudos e exemplos em Java
-- 🎓 [crud-estudante](https://github.com/Eduardo1985S/crud-estudante) – CRUD em Java + JDBC
-
 ## Métricas
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Eduardo1985S&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=7200" alt="Estatísticas do GitHub: commits, stars, etc." />
