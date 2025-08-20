@@ -74,7 +74,7 @@
 
 ## Contato
 - 🔗 GitHub: [@Eduardo1985S](https://github.com/Eduardo1985S)
-- 💼 LinkedIn: (adicione seu link aqui)
-- ✉️ E-mail: (adicione seu e-mail aqui)
+- 💼 LinkedIn: (https://www.linkedin.com/in/eduardo-correia-dev/)
+- ✉️ E-mail: (edutechtreinamentos@gmail.com)
 
-<sub>Atualize este README quando quiser destacar novos projetos, cursos e certificações.</sub>
+
