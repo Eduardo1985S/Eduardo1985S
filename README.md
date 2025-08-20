@@ -1,4 +1,4 @@
-<!-- README de Perfil - Eduardo1985S -->
+﻿<!-- README de Perfil - Eduardo1985S -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+eu+sou+o+EDUARDO+CORREIA+%F0%9F%91%8B;Desenvolvedor+Web+%2F+Mobile;React+%7C+React+Native+%7C+Node.js+%7C+Java;Professor+%2F+Criador+de+conte%C3%BAdo" alt="Introdução animada com nome e áreas de atuação" />
@@ -41,6 +41,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="Tecnologia: PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" alt="Tecnologia: MongoDB" />
 </p>
+
+## Em destaque
+- 🧺 [orgs-cesta](https://github.com/Eduardo1985S/orgs-cesta) – app exemplo com React Native
+- 🧭 [react-router-vite](https://github.com/Eduardo1985S/react-router-vite) – boilerplate com React Router
+- 🏬 [store-app](https://github.com/Eduardo1985S/store-app) – app de loja (frontend)
+- 🧭 [template-react-navigation](https://github.com/Eduardo1985S/template-react-navigation) – navegação base RN
+- 📘 [Exercises-Javascript](https://github.com/Eduardo1985S/Exercises-Javascript) – exercícios JS
+- ☕ [Java](https://github.com/Eduardo1985S/Java) – estudos e exemplos em Java
+- 🎓 [crud-estudante](https://github.com/Eduardo1985S/crud-estudante) – CRUD em Java + JDBC
 
 ## Métricas
 <p>
