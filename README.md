@@ -13,6 +13,7 @@
 ---
 
 ## Sobre mim
+- 💪 Metodologia: Gestão Ágil
 - 🎯 Foco atual: React, React Native, Node.js e TypeScript
 - 🚀 Projetos full stack, apps mobile e conteúdos educativos
 - 🧭 Boas práticas: testes, performance, acessibilidade e UX
