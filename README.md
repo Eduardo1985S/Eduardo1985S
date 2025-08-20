@@ -1,7 +1,7 @@
 <!-- README de Perfil - Eduardo1985S -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+eu+sou+o+EDUARDO+CORREIA+%F0%9F%91%8B;Desenvolvedor+Web+%2F+Mobile;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Professor+%2F+Criador+de+conte%C3%BAdo" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+eu+sou+o+EDUARDO+CORREIA+%F0%9F%91%8B;Desenvolvedor+Web+%2F+Mobile;React+%7C+React+Native+%7C+Node.js+%7C+Java;Professor+%2F+Criador+de+conte%C3%BAdo" alt="typing intro" />
 </p>
 
 <p align="center">
