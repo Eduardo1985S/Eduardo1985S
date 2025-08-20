@@ -21,14 +21,14 @@
 
 ## Stack principal
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TS" />
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Expo-000?logo=expo&logoColor=fff" alt="Expo" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff" alt="Express" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
