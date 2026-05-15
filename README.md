@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Eduardo Correia</h1>
 
 <p align="center">
-  Professor de Tecnologia | Desenvolvedor | Entusiasta de Educação, Programação e Projetos Digitais
+  Professor de Tecnologia | Desenvolvedor | Educador, Programação e Projetos Digitais
 </p>
 
 <p align="center">
