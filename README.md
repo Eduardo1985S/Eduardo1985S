@@ -1,216 +1,126 @@
-<h1 align="center">👋 Olá, eu sou Eduardo Correia</h1>
+<h1 align="center">Eduardo Correia</h1>
 
 <p align="center">
-  Professor de Tecnologia | Desenvolvedor | Programação e Projetos Digitais
+  <strong>Desenvolvedor Full Stack · Professor de Tecnologia</strong><br>
+  Desenvolvimento web, aplicações mobile e formação de novos desenvolvedores.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eduardo1985S">
-    <img src="https://img.shields.io/badge/GitHub-Eduardo1985S-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:edutechtreinamentos@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-correia-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Correia-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/eduardo-correia-dev/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge" alt="Conecte-se comigo no LinkedIn"></a>
+  <a href="mailto:edutechtreinamentos@gmail.com"><img src="https://img.shields.io/badge/E--mail-Vamos_conversar-334155?style=for-the-badge" alt="Envie um e-mail"></a>
+  <a href="https://github.com/Eduardo1985S?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus repositórios"></a>
+</p>
+
+<p align="center">
+  <a href="#sobre">Sobre</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#ensino">Ensino</a> ·
+  <a href="#contato">Contato</a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+<a id="sobre"></a>
 
-Sou profissional da área de tecnologia, professor de cursos técnicos e apaixonado por transformar conhecimento em projetos práticos.
+## Código com propósito. Conhecimento que vira prática.
 
-Atuo com desenvolvimento de sistemas, lógica de programação, front-end, back-end, banco de dados, mobile e metodologias ágeis. Também gosto de criar materiais didáticos, atividades práticas, projetos educacionais e soluções digitais que aproximam os alunos do mercado de trabalho.
+Sou Eduardo Cesar Correia, desenvolvedor Full Stack e docente de ensino técnico desde 2019, com atuação no **SENAI-SP** e no **Centro Paula Souza**.
 
-Tenho experiência com aulas de programação, desenvolvimento web, aplicações mobile, banco de dados e projetos integradores.
+Conecto desenvolvimento de software e educação: construo aplicações, preparo experiências de aprendizagem e oriento alunos a transformar requisitos em projetos funcionais. Minha atuação abrange interfaces web, APIs, bancos de dados e aplicações mobile, com atenção à organização do código e à clareza das decisões técnicas.
 
----
+Trabalho principalmente com **JavaScript, React, Node.js e PostgreSQL**, além de **React Native com Expo** para desenvolvimento mobile. Também exploro inteligência artificial como apoio à criação de materiais, automações e soluções educacionais.
 
-## 🎯 Áreas de interesse
+**Formação:** Análise e Desenvolvimento de Sistemas · Técnico em Informática para Internet.
 
-- 👨‍🏫 Educação em tecnologia
-- 💻 Desenvolvimento Web
-- 📱 Desenvolvimento Mobile
-- 🧠 Lógica de Programação
-- 🗄️ Banco de Dados
-- ⚙️ Back-end com Node.js
-- 🎨 Front-end com React
-- 🚀 Projetos SaaS
-- 📊 Dashboards e sistemas administrativos
-- 🤖 Automação e uso de IA na educação
+<a id="projetos"></a>
 
----
+## Projetos selecionados
 
-## 🛠️ Tecnologias e Ferramentas
+Uma seleção de aplicações e materiais que conectam minha prática de desenvolvimento ao ensino de tecnologia.
 
-### Linguagens
+| Projeto | Proposta | O que explorar |
+| :--- | :--- | :--- |
+| **[Portal do Dev](https://github.com/Eduardo1985S/portaldodev)** | Portal para organizar conteúdos e disciplinas de tecnologia. | Interface em React e Vite, componentes reutilizáveis e estilização com Tailwind CSS. |
+| **[Teste de Software com JavaScript](https://github.com/Eduardo1985S/teste-software)** | Trilha didática de 45 horas para o Técnico em Desenvolvimento de Sistemas. | Testes manuais, análise de risco, registro de defeitos e automação com Jest. |
+| **[Responsividade](https://github.com/Eduardo1985S/responsividade)** | Projeto de apoio às aulas de desenvolvimento de interfaces responsivas. | Estudo e prática de HTML e CSS para diferentes tamanhos de tela. |
+
+**[Explore todos os repositórios →](https://github.com/Eduardo1985S?tab=repositories)**
+
+<a id="tecnologias"></a>
+
+## Tecnologias e aplicação
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
 </p>
 
-### Front-end
+| Área | Tecnologias | Aplicação |
+| :--- | :--- | :--- |
+| **Front-end** | React, Next.js, Vite, HTML, CSS, Tailwind CSS, Styled Components | Interfaces responsivas, componentização, navegação e consumo de APIs. |
+| **Back-end** | Node.js, Express | APIs REST, regras de negócio e integração com bancos de dados. |
+| **Mobile** | React Native, Expo | Navegação, listas, armazenamento local e recursos do dispositivo. |
+| **Dados** | PostgreSQL, MySQL, SQLite, Supabase | Modelagem relacional, consultas SQL, persistência e autenticação com Supabase. |
+| **Qualidade e colaboração** | Jest, Git, GitHub, Postman | Testes, versionamento e validação de APIs. |
+| **Ambiente e publicação** | Linux, Docker, Vercel, Render | Ambientes de desenvolvimento e publicação de aplicações. |
+| **Design e projetos** | Figma, Scrum, Kanban | Prototipação, planejamento e acompanhamento de entregas. |
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
-</p>
+<details>
+<summary><strong>Outras linguagens e fundamentos que fazem parte da minha atuação</strong></summary>
 
-### Mobile
+Além do ecossistema JavaScript, trabalho com conteúdos de **Java, orientação a objetos, JDBC, Spring Boot, PHP e PDO**.
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff" />
-</p>
+Na formação de novos desenvolvedores, também ensino **algoritmos, fluxogramas, pseudocódigo e VisuAlg**, conectando a lógica inicial à construção de aplicações.
 
-### Back-end
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff" />
-</p>
+## Como conduzo os projetos
 
-### Banco de Dados
+- **Entender antes de implementar:** organizar requisitos, fluxos e critérios de entrega.
+- **Separar responsabilidades:** estruturar componentes, regras de negócio e acesso a dados de forma compreensível.
+- **Construir em etapas:** dividir o trabalho em entregas pequenas, com versionamento e evolução contínua.
+- **Verificar o comportamento:** considerar cenários de uso, entradas inválidas e tratamento de erros.
+- **Documentar para dar continuidade:** registrar instalação, execução e decisões que ajudam outras pessoas a contribuir.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
-</p>
+<a id="ensino"></a>
 
-### Ferramentas
+## Ensino, mentoria e compartilhamento
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff" />
-</p>
+Minha prática docente aproxima os fundamentos da programação do desenvolvimento de projetos. Produzo materiais com explicações acessíveis, exemplos progressivos e atividades que ajudam o aluno a compreender o que está construindo.
 
----
+| Frente | Conteúdos e práticas |
+| :--- | :--- |
+| **Fundamentos** | Lógica, algoritmos, JavaScript e orientação a objetos. |
+| **Desenvolvimento de aplicações** | Front-end, back-end, mobile e bancos de dados. |
+| **Prática de equipe** | Git e GitHub, metodologias ágeis e projetos integradores. |
+| **Qualidade de software** | Planejamento de testes, investigação de defeitos e automação. |
 
-## 📚 Atualmente trabalhando com
+No repositório **[Teste de Software com JavaScript](https://github.com/Eduardo1985S/teste-software)**, essa abordagem aparece em uma sequência que parte de requisitos e resultados esperados, passa pela investigação de defeitos e chega à automação.
 
-- 📱 React Native com Expo
-- ⚛️ React e Next.js
-- 🟢 Node.js com Express
-- 🐘 PostgreSQL
-- ⚡ Supabase
-- 🧩 Projetos educacionais para cursos técnicos
-- 🤖 Uso de IA para apoiar aulas, materiais e automações
+## Interesses em desenvolvimento
 
----
+**Educação e IA:** uso de inteligência artificial para apoiar materiais didáticos, automações e experiências de aprendizagem.
 
-## 🧑‍🏫 Ensino e Compartilhamento
+**Gestão acadêmica e dados:** estudo de uma plataforma baseada em Business Intelligence e IA para acompanhar o progresso dos alunos e apoiar decisões pedagógicas.
 
-Gosto de transformar conteúdos complexos em explicações simples, práticas e visuais.
+**Produtos digitais:** exploração de aplicações SaaS, dashboards e ferramentas que resolvam necessidades concretas de professores, alunos e equipes.
 
-Alguns temas que costumo trabalhar:
+<a id="contato"></a>
 
-- Lógica de Programação
-- Algoritmos com VisuAlg
-- JavaScript
-- HTML e CSS
-- React
-- React Native
-- Node.js
-- Banco de Dados
-- Git e GitHub
-- Metodologias Ágeis
-- Projetos Integradores
+## Vamos conversar?
 
----
+Para conversar sobre desenvolvimento web e mobile, educação em tecnologia, projetos ou colaboração:
 
-## 📌 Projetos em destaque
-
-### 📱 Aplicações Mobile
-
-Projetos com React Native e Expo, explorando navegação, componentes, listas, consumo de API, armazenamento local e interfaces modernas.
-
-### 🌐 Sistemas Web
-
-Aplicações com React, Next.js, Node.js, Express e banco de dados, com foco em CRUD, autenticação, dashboards e organização de dados.
-
-### 🧠 Materiais Educacionais
-
-Atividades, exercícios, guias de estudo, simulados e projetos práticos para alunos de cursos técnicos em tecnologia.
-
-### 🚀 Projetos SaaS
-
-Ideias e protótipos de sistemas online usando Vercel, Supabase, dashboards, autenticação e banco de dados na nuvem.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduardo1985S&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo1985S&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo1985S&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo1985S&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo1985S&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 👀 Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo1985S&style=for-the-badge&color=blueviolet" />
-</p>
-
----
-
-## 💬 Frase que me representa
-
-> “Ensinar tecnologia é transformar lógica em possibilidades.”
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://github.com/Eduardo1985S">
-    <img src="https://img.shields.io/badge/GitHub-Eduardo1985S-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-correia-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Correia-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:edutechtreinamentos@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-edutechtreinamentos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**[LinkedIn](https://www.linkedin.com/in/eduardo-correia-dev/)** · **[edutechtreinamentos@gmail.com](mailto:edutechtreinamentos@gmail.com)**
 
 ---
 
 <p align="center">
-  🚀 Obrigado por visitar meu perfil!
+  <sub>“Ensinar tecnologia é transformar lógica em possibilidades.”</sub>
 </p>
+
