@@ -25,7 +25,7 @@
 
 ## Código com propósito. Conhecimento que vira prática.
 
-Sou Eduardo Cesar Correia, desenvolvedor Full Stack e docente de ensino técnico desde 2019, com atuação no **SENAI-SP** e no **Centro Paula Souza**.
+Sou Eduardo Cesar Correia, desenvolvedor Full Stack e docente de ensino técnico desde 2014, com atuação no **SENAI-SP** e no **Centro Paula Souza**.
 
 Conecto desenvolvimento de software e educação: construo aplicações, preparo experiências de aprendizagem e oriento alunos a transformar requisitos em projetos funcionais. Minha atuação abrange interfaces web, APIs, bancos de dados e aplicações mobile, com atenção à organização do código e à clareza das decisões técnicas.
 
